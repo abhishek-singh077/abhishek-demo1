@@ -1,4 +1,4 @@
 # abhishek-demo1
 This is my first git repository 
 <br>
-author - abhishek singh
+author - abhishek singh rajput
